@@ -1,0 +1,19 @@
+{
+  "name": "maison-aurore-ecommerce",
+  "version": "1.0.0",
+  "description": "Boutique de luxe - Haute Parfumerie d'Intérieur",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for ESM-native project' && exit 0"
+  },
+  "keywords": [
+    "ecommerce",
+    "luxury",
+    "react",
+    "perfume",
+    "esm"
+  ],
+  "author": "Maison Aurore",
+  "license": "MIT"
+}
